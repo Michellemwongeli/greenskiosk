@@ -1,0 +1,23 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  padding: 4%;
+  flex: 1 4%;
+}
+
+.product-info {
+  margin-top: auto;
+}
+
+.add-to-cart-btn {
+  background: #00ff14;
+  border: none;
+}
+
+.photo {
+  height: 50vh;
+  width: 50vh;
+}
